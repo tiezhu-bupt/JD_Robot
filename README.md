@@ -84,7 +84,7 @@ Fri Sep 27 22:13:17 2019 > 订单详情
 代码仅供学习之用，京东网页不断变化，代码并不一定总是能正常运行。<br/>
 如果您发现有Bug，Welcome to Pull Request.
 ## 联系帮助
-请直接提issue或者加我微信:lly19980726
+请直接提issue或者加我微信
 
 
 [1]: http://docs.python-requests.org
